@@ -1,4 +1,4 @@
-# Sistema de Controle de Despesas
+# Controle de Despesas
 
 Este é um sistema de controle de despesas em Java que permite gerenciar despesas e pagamentos, incluindo funcionalidades para conciliação de despesas. O sistema é composto por uma interface de linha de comando (CLI) para interação com o usuário.
 
